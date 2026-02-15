@@ -25,3 +25,10 @@ tasks easily from the terminal.
 This project was created as part of a Python Developer Internship 
 task to demonstrate understanding of Python basics, file handling, 
 and CLI application development.
+
+## Output Screenshot
+
+![ToDo App Output](1.jpg)
+![ToDo App Output](2.jpg)
+![ToDo App Output](3.jpg)
+
